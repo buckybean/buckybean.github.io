@@ -1,6 +1,5 @@
 # Dependencies
-auto: true
-pygements: true
+pygments: true
 
 markdown: kramdown
 kramdown:
