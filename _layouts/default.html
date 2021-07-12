@@ -1,9 +1,8 @@
 <!DOCTYPE html>
-<html lang="ja">
-<head>
-<meta charset="utf-8">
-<title>{{ page.title }}</title>
-</head>
+<html lang="{{ page.lang | default: 'ja'}}">
+  <meta charset='utf-8'>
+
+  {% include head.html %}
 
   <body class="{{ page.layout }}{% if page.url == '/' %} home{% endif %}">
 
