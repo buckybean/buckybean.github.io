@@ -79,7 +79,7 @@ Training Maxが重要になってくるのは一番最初に531を立ち上げ�
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-8qj4{color:#000000;font-family:"Arial Black", Gadget, sans-serif !important;;text-align:left;vertical-align:top}
+.tg .tg-8qj4{color:#000000;font-family:"Arial Black", Gadget, sans-serif !important;;text-align:center;vertical-align:top}
 .tg .tg-0srm{color:#000000;font-family:"Arial Black", Gadget, sans-serif !important;;text-align:center;vertical-align:middle}
 </style>
 <table class="tg">
