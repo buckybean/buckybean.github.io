@@ -3,11 +3,14 @@ layout: page
 title: About
 sidebar_link: true
 ---
+# Intro
+かつてタコライス研究日誌と言う筋トレ/ダイエットを扱っていたサイトを管理していた[@buckybean](https://twitter.com/buckybean "俗に言う雑多垢")の巣窟へようこそ。読み方はばっきぃびーんで愛犬の名前でした。より筋トレ向けのトゥウィラー垢[@tacokennisshi](https://twitter.com/TacoKenNisshi)もあるよ。
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it
-  for your own use upon downloading. Carry on!
-</p>
+## 内容
+中の人は中年になり最大筋力や最大筋肥大を求めなくなりなすた。最近は余生を健康と機能と堪能と3点からバランス良く生きるにはどうすべきか、的に考えています。このサイトで取り扱うのはお世話になっているJim Wendler氏の5/3/1と言うプログラム、エビデンス皆無の気まぐれ考察、ゲーム(ネトゲ、据置、ソシャゲ)やその他エンタメコンテンツ消化などの趣味です。Visual Studio Codeでマークダウンを利用して作成している軽量でシンプルな昔馴染みのレイアウトなのでこれ以上ファンシーになりません。と言うか分かりません。
 
-To make pages show up in the sidebar, add `sidebar_link: true` to the front
-matter.
+## 注意点
+> 筋トレやダイエット系の書き込みに関しては基本的に善意をもって作ったものですが、それを読者がどう扱うかは自己責任でよろしくお願いします。またエビデンス、エビデンスと謳っているサイトでもありません。軽い意見の交換は別に構いませんが、特にディベートがしたいわけでも無いので悪しからず。
+
+## Who is Buckybean?
+幼少期に沖縄で育った経験を持つアメリカ人です。若い頃は海兵隊、陸軍、民間軍事会社の人間でした。フロリダ大学を卒業後、親愛なる父が他界し、心機一転を求め日本に行き、それ以来ずっと居ます。現在は結婚をし、2児に恵まれ幸せぽ。
