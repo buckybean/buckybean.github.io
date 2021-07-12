@@ -7,7 +7,6 @@ categories:
 tags:
   - 531
   - 筋トレ
-last_modified_at:
 ---
 # 1. 531とは？
 ---
