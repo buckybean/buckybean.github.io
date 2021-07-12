@@ -1,4 +1,7 @@
 # Dependencies
+auto: true
+pygements: true
+
 markdown: kramdown
 kramdown:
   input: GFM
