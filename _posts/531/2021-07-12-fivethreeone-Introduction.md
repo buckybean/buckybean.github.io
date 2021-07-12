@@ -73,11 +73,45 @@ Training Maxが重要になってくるのは一番最初に531を立ち上げ�
 # 6. 実践編
 ---
 プログラム概要で少し触ったレップスキームの具体的な数値は以下の通りである。
- | 5の週 | 3の週 | １の週 | デロード 
- | :---: | :---: | :---: | :---: 
- | 65% x 5 | 70% x 3 | 75% x 5 | 40% x 5 
- | 75% x 5 | 80% x 3 | 85% x 3 | 50% x 5 
- | 85% x 5+ | 90% x 3+ | 95% x 1+ | 60% x 5 
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-8qj4{color:#000000;font-family:"Arial Black", Gadget, sans-serif !important;;text-align:left;vertical-align:top}
+.tg .tg-0srm{color:#000000;font-family:"Arial Black", Gadget, sans-serif !important;;text-align:center;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-8qj4">5の週</th>
+    <th class="tg-8qj4">3の週</th>
+    <th class="tg-8qj4">1の週</th>
+    <th class="tg-8qj4">デロード</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0srm">65% x 5</td>
+    <td class="tg-0srm">70% x 3</td>
+    <td class="tg-0srm">75% x 5</td>
+    <td class="tg-0srm">40% x 5</td>
+  </tr>
+  <tr>
+    <td class="tg-0srm">75% x 5</td>
+    <td class="tg-0srm">80% x 3</td>
+    <td class="tg-0srm">85% x 3</td>
+    <td class="tg-0srm">50% x 5</td>
+  </tr>
+  <tr>
+    <td class="tg-8qj4">85% x 5+</td>
+    <td class="tg-8qj4">90% x 3+</td>
+    <td class="tg-8qj4">95% x 1+</td>
+    <td class="tg-8qj4">60% x 5</td>
+  </tr>
+</tbody>
+</table>
 
 ※ウォームアップは省略。
 
