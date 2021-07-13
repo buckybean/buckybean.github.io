@@ -21,7 +21,7 @@ tags:
 ---
 531とはアメリカにあるTraining Gym、Elite FTSの一員であるJim Wendler氏が2005年代に人生に追われていた時、どうにかトレーニングライフを両立出来ないかと考案し、当時の掲示板に公開したプログラムである。
 
-<img src="/Users/buckybean/Documents/GitHub/buckybean.github.io/assets/531/Jim Wendler.jpg" width="100"></img>
+<img src="/Users/buckybean/Documents/GitHub/buckybean.github.io/assets/531/Jim Wendler.jpg" width="100" />
 
 Jim Wendler
 
@@ -29,7 +29,7 @@ Jim Wendler
 
 英語版限定だからAmazonでKindle版が￥１０００以下の値段で買える。但し書籍としてクオリティがクソ過ぎてオススメしない。買うのならJimさんのへのお布施の心意気で...
 
-<a href="https://www.amazon.co.jp/Simplest-Effective-Training-Strength-English-ebook/dp/B00AJ8CIQM?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=531+Jim+wendler&qid=1626063119&sr=8-1&linkCode=ll1&tag=buckybean-22&linkId=a438db4050ad8e0bf0eb40bde0677867&language=ja_JP&ref_=as_li_ss_tl"><img src="/Users/buckybean/Documents/GitHub/buckybean.github.io/assets/531/Jim%20Wendler%20531%20kindle.jpg" width="100"></img></a> 
+<a href="https://www.amazon.co.jp/Simplest-Effective-Training-Strength-English-ebook/dp/B00AJ8CIQM?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=531+Jim+wendler&qid=1626063119&sr=8-1&linkCode=ll1&tag=buckybean-22&linkId=a438db4050ad8e0bf0eb40bde0677867&language=ja_JP&ref_=as_li_ss_tl"><img src="/Users/buckybean/Documents/GitHub/buckybean.github.io/assets/531/Jim%20Wendler%20531%20kindle.jpg" width="100" /></a> 
 
 ## 2. どうして今更531？
 ---
@@ -40,9 +40,8 @@ Jim Wendler
 先ず、発案者のJim Wendler氏が言うプログラムの想定者を述べる。Wendler氏曰くBeyond531内で紹介する「531 for Beginners」の登場でいつの間にか初級トレーニー（Novice)にも向いていると言っています。Beginners版を卒業したら普通の531に移行する様な流れである。
 
 個人的にはこれはオススメしない。
-~~~
-ガチ初心者にはStarting Strengths又はStronglifts 5x5がオススメである。
-~~~
+> ガチ初心者にはStarting Strengths又はStronglifts 5x5がオススメである。
+
 中級トレーニーレベルに到達したらようやく531が楽しくなると思う。上級トレーニーなら生涯末長く楽しめるプログラムだと思う。
 
 当然だが「531が最強」だったり「万人受け」であるとも思わない。身体の見た目で勝負するコンテストだったり、トレーニングに割ける時間がより多いトレーニーやコーチが居るのならより良いプログラムはたくさんある。だが自分と同じ様な境遇のトレーニーは居るであろうから、とにかくその方達向けである。
@@ -51,9 +50,7 @@ Jim Wendler
 ---
 531はメゾサイクル（4から6週間）単位の線形ピリオダイゼーションのプログラムである。メゾサイクルが終わると重量を更新してまたメゾサイクルが始まる。特に問題が無い限り、これをルーティンとして生涯続けるわけだ。Wendler氏は週4日くらいのトレーニング頻度を好むが、自分は諸々の都合上、週3くらいがスケジュールにフィットするのでそうしている。
 
-~~~
-主軸となるトレーニング種目はビッグ4で、具体的にはデッドリフト、スクワット、ベンチプレス、そしてオーバーヘッドプレスであるのバーベルを利用した多関節種目から構成されている。
-~~~
+> 主軸となるトレーニング種目はビッグ4で、具体的にはデッドリフト、スクワット、ベンチプレス、そしてオーバーヘッドプレスであるのバーベルを利用した多関節種目から構成されている。
 
 基本となるレップスキームは決まっており、メゾサイクル内のミクロサイクルは５レップの週、３レップの週、１レップの週、そしてデロードで構成されている。どの週のワーキングセットは３セットで最後のセットは必ず「＋（プラス）」セットとなっている。実際の数字に関しては後述の実践編に記述する。
 
