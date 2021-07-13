@@ -29,7 +29,7 @@ Jim Wendler
 
 英語版限定だからAmazonでKindle版が￥１０００以下の値段で買える。但し書籍としてクオリティがクソ過ぎてオススメしない。買うのならJimさんのへのお布施の心意気で...
 
-<a href="https://www.amazon.co.jp/Simplest-Effective-Training-Strength-English-ebook/dp/B00AJ8CIQM?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=531+Jim+wendler&qid=1626063119&sr=8-1&linkCode=ll1&tag=buckybean-22&linkId=a438db4050ad8e0bf0eb40bde0677867&language=ja_JP&ref_=as_li_ss_tl"><img src="/Users/buckybean/Documents/GitHub/buckybean.github.io/assets/531/Jim%20Wendler%20531%20kindle.jpg" width="100" /></a> 
+<a href="https://www.amazon.co.jp/Simplest-Effective-Training-Strength-English-ebook/dp/B00AJ8CIQM?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=531+Jim+wendler&qid=1626063119&sr=8-1&linkCode=ll1&tag=buckybean-22&linkId=a438db4050ad8e0bf0eb40bde0677867&language=ja_JP&ref_=as_li_ss_tl"><img src="/assets/531/Jim Wendler 531 kindle.jpg" width="100" /></a> 
 
 ## 2. どうして今更531？
 ---
