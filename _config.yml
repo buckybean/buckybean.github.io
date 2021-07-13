@@ -26,6 +26,10 @@ author:
 paginate:         5
 paginate_path:    '/index.md'
                     # Or '/blog/page:num' if you want to move your index pages
+discus:
+  shortname: tacokennisshi
+  
+google_analytics: G-KZEDDKRNB6
 
 plugins:
   - jekyll-feed
