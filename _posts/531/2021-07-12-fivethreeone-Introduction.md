@@ -21,7 +21,7 @@ tags:
 ---
 531とはアメリカにあるTraining Gym、Elite FTSの一員であるJim Wendler氏が2005年代に人生に追われていた時、どうにかトレーニングライフを両立出来ないかと考案し、当時の掲示板に公開したプログラムである。
 
-<img src="/Users/buckybean/Documents/GitHub/buckybean.github.io/assets/531/Jim Wendler.jpg" width="100" />
+<img src="/assets/531/Jim Wendler.jpg" width="100" />
 
 Jim Wendler
 
