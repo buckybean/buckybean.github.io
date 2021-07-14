@@ -8,5 +8,16 @@ $body-bg: #0D0208;
 $heading-color: #FF3C00;
 $sidebar-bg-color: #BE5504;
 $link-color: #008F11;
-$sidebar-sticky: true;
+
+// Hyde theming
+$sidebar-bg-color: #0D0208;
+$sidebar-fg-color: #0D0208;
+$sidebar-sticky: true !default;
+$layout-reverse: false !default;
+
+$sidebar-title-color: #FF3C00;
+$sidebar-link-color: #0D0208;
+$sidebar-text-color: rgba(#0D0208, 0.75);
+$sidebar-icon-color: rgba(#FFF, 0.85);
+
 @import "hydeout";
