@@ -16,7 +16,7 @@ tags:
 
 <!--more-->
 
-<img src="/assets/tacokennisshi/10JUL2021/D1D2-Blues.JPG" width="100" />
+<img src="/assets/tacokennisshi/10JUL2021/D2D1-Blues.JPG" width="100" />
 
 <img src="/assets/tacokennisshi/10JUL2021/afghan1.JPG" width="100" />
 
