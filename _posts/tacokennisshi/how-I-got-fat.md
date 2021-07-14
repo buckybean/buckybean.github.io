@@ -7,5 +7,6 @@ categories:
 tags:
   - 筋トレ
   - ダイエット
+  - 減量
 ---
 おk？
