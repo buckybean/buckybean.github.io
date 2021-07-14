@@ -30,6 +30,11 @@ tags:
 
 38歳くらいの時に鼠径ヘルニアを患い、手術をするまでジムに行けずブクブク太った。この頃からインスタへの投稿は無くなった。ベーコンやTomoさんと一緒に食事したのもこの頃だった。
 
+<div class="center">
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">タコ研日誌の中の人とメシ行ってきました💪 <br><br>トレーニング始めた頃からすごくお世話になったので、直接お礼が言えて本当に良かったです。<br><br>ダグさん、しょうこさん、Tomoさんありがとうございました！m(_ _)m <a href="https://t.co/ygAI0oyp0A">pic.twitter.com/ygAI0oyp0A</a></p>&mdash; ベーコン (@Bacon_05410) <a href="https://twitter.com/Bacon_05410/status/963396000902627328?ref_src=twsrc%5Etfw">February 13, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+</div>
 
 
 手術は上手く行ったが腹圧を掛けるとどうも傷口に違和感が。ベルトを巻くと尚更だった。ベルトを必要としない重量でトレーニングをしていたが、やはり重量って大事なわけですごくやる気が出なかった。
