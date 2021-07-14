@@ -65,42 +65,47 @@ Training Maxが重要になってくるのは一番最初に531を立ち上げ�
 ## 6. 実践編
 ---
 プログラム概要で少し触ったレップスキームの具体的な数値は以下の通りである。
+
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-8qj4{color:#000000;font-family:"Arial Black", Gadget, sans-serif !important;;text-align:center;vertical-align:top}
-.tg .tg-0srm{color:#000000;font-family:"Arial Black", Gadget, sans-serif !important;;text-align:center;vertical-align:middle}
+.tg .tg-prsw{background-color:#000000;border-color:#fe0000;color:#34ff34;font-family:"Arial Black", Gadget, sans-serif !important;;
+  font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-iug0{background-color:#000000;border-color:#fe0000;color:#34ff34;font-family:"Arial Black", Gadget, sans-serif !important;;
+  font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-xnkf{background-color:#000000;border-color:#fe0000;color:#34ff34;font-family:"Arial Black", Gadget, sans-serif !important;;
+  text-align:center;vertical-align:top}
 </style>
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-8qj4">5の週</th>
-    <th class="tg-8qj4">3の週</th>
-    <th class="tg-8qj4">1の週</th>
-    <th class="tg-8qj4">デロード</th>
+    <th class="tg-prsw">5の週</th>
+    <th class="tg-xnkf">3の週</th>
+    <th class="tg-xnkf">1の週</th>
+    <th class="tg-prsw">デロード</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-0srm">65% x 5</td>
-    <td class="tg-0srm">70% x 3</td>
-    <td class="tg-0srm">75% x 5</td>
-    <td class="tg-0srm">40% x 5</td>
+    <td class="tg-iug0">65% x 5</td>
+    <td class="tg-iug0">70% x 3</td>
+    <td class="tg-iug0">75% x 5</td>
+    <td class="tg-iug0">40% x 5</td>
   </tr>
   <tr>
-    <td class="tg-0srm">75% x 5</td>
-    <td class="tg-0srm">80% x 3</td>
-    <td class="tg-0srm">85% x 3</td>
-    <td class="tg-0srm">50% x 5</td>
+    <td class="tg-iug0">75% x 5</td>
+    <td class="tg-iug0">80% x 3</td>
+    <td class="tg-iug0">85% x 3</td>
+    <td class="tg-iug0">50% x 5</td>
   </tr>
   <tr>
-    <td class="tg-8qj4">85% x 5+</td>
-    <td class="tg-8qj4">90% x 3+</td>
-    <td class="tg-8qj4">95% x 1+</td>
-    <td class="tg-8qj4">60% x 5</td>
+    <td class="tg-prsw">85% x 5+</td>
+    <td class="tg-prsw">90% x 3+</td>
+    <td class="tg-prsw">95% x 1+</td>
+    <td class="tg-prsw">60% x 5</td>
   </tr>
 </tbody>
 </table>
