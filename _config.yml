@@ -8,7 +8,7 @@ kramdown:
 highlighter:      rouge
 
 # Setup
-title:            備忘録
+title:            タコライス研究日誌
 tagline:          '地面から重いものを持ち上げるほど楽しいことはない'
 description:      '地面から重いものを持ち上げるほど楽しいことはない'
 url:              https://buckybean.github.io/
