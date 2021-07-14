@@ -13,17 +13,22 @@ tags:
 今年42歳になった。20代の頃は海兵隊、陸軍、民間軍事会社の一員としてイラクやアフガニスタンに行ってた。その頃は身体が資本、と言うより身体と身体能力の両方が必要不可欠だったので特に太っては居なかった。
 
 `以後写真があるので畳み`
+
 <!--more-->
+
 <img src="/assets/tacokennisshi/10JUL2021/D1D2-Blues.jpg" width="100" />
+
 <img src="/assets/tacokennisshi/10JUL2021/afghan1.jpg" width="100" />
+
 <img src="/assets/tacokennisshi/10JUL2021/afghan2.jpg" width="100" />
 
 軍関係の仕事からおさらばした30代あたりに激太りして、その時にリーンゲインズに出会い腹筋が見えるまで戻れた。30代の体型を維持していれば問題無かったんだがな、うむ。
 
 <img src="/assets/tacokennisshi/10JUL2021/2010-Pre Leangains.JPG" width="100" />
+
 <img src="/assets/tacokennisshi/10JUL2021/2010-Final.JPG" width="100" /> 
 
-画質の糞っぷりに驚く。
+画質の糞っぷりに驚くの事、SNSにこれ以上の仕上がりが日常的に上がってるのを見ると大した事無いよね、笑。
 
 38歳くらいの時に鼠径ヘルニアを患い、手術をするまでジムに行けずブクブク太った。この頃からインスタへの投稿は無くなった。ベーコンやTomoさんと一緒に食事したのもこの頃だった。
 
