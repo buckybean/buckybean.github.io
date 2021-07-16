@@ -2,7 +2,7 @@
 layout: post
 title: "【脱デブ】R3年10月11日の人間ドックまで 7月10日の報告"
 date: 2021-07-10
-categories:
+categories: tacokennisshi
   - 
 tags:
   - 筋トレ
