@@ -14,7 +14,7 @@ tags:
 
 <!--more-->
 
-<img src="/assets/tacokennisshi/10JUL2021/D2D1-Blues.JPG" width="100" />
+<a href ="/assets/tacokennisshi/10JUL2021/D2D1-Blues.JPG"> <img src="/assets/tacokennisshi/10JUL2021/D2D1-Blues.JPG" width="100" /> </a>
 
 <img src="/assets/tacokennisshi/10JUL2021/afghan1.JPG" width="100" />
 
