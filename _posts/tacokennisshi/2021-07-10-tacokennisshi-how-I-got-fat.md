@@ -14,23 +14,23 @@ tags:
 
 <!--more-->
 
-<a href ="/assets/tacokennisshi/10JUL2021/D2D1-Blues.JPG"> <img src="/assets/tacokennisshi/10JUL2021/D2D1-Blues.JPG" width="100" /> </a>
+<a href="/assets/tacokennisshi/10JUL2021/D2D1-Blues.JPG"><img src="/assets/tacokennisshi/10JUL2021/D2D1-Blues.JPG" width="100" /> </a>
 
-<img src="/assets/tacokennisshi/10JUL2021/afghan1.JPG" width="100" />
+<a href="/assets/tacokennisshi/10JUL2021/afghan1.JPG"><img src="/assets/tacokennisshi/10JUL2021/afghan1.JPG" width="100" /> </a>
 
-<img src="/assets/tacokennisshi/10JUL2021/afghan2.jpg" width="100" />
+<a href="/assets/tacokennisshi/10JUL2021/afghan2.jpg"><img src="/assets/tacokennisshi/10JUL2021/afghan2.jpg" width="100" /> </a>
 
 軍関係の仕事からおさらばした30代あたりに激太りして、その時にリーンゲインズに出会い腹筋が見えるまで戻れた。30代の体型を維持していれば問題無かったんだがな、うむ。
 
-<img src="/assets/tacokennisshi/10JUL2021/2010-Pre Leangains.JPG" width="100" />
+<a href="/assets/tacokennisshi/10JUL2021/2010-Pre Leangains.JPG"><img src="/assets/tacokennisshi/10JUL2021/2010-Pre Leangains.JPG" width="100" /> </a>
 
-<img src="/assets/tacokennisshi/10JUL2021/2010-Final.JPG" width="100" /> 
+<a href="/assets/tacokennisshi/10JUL2021/2010-Final.JPG"><img src="/assets/tacokennisshi/10JUL2021/2010-Final.JPG" width="100" /> </a>
 
 画質の糞っぷりに驚くのと、今ではSNSにこれ以上の仕上がりが日常的に上がってるのを見ると大した事無いよね、笑。
 
 38歳くらいの時に鼠径ヘルニアを患い、手術をするまでジムに行けずブクブク太った。
 
-<img src="/assets/tacokennisshi/10JUL2021/IMG_0528.JPG" width="100" />
+<a href="/assets/tacokennisshi/10JUL2021/IMG_0528.JPG"><img src="/assets/tacokennisshi/10JUL2021/IMG_0528.JPG" width="100" /> </a>
 
 鼠径ヘルニアの手術を中頭病院で行った時の写真。
 
@@ -45,7 +45,7 @@ tags:
 
 手術は上手く行ったが腹圧を掛けるとどうも傷口に違和感が。ベルトを巻くと尚更だった。ベルトを必要としない重量でトレーニングをしていたが、やはり重量って大事なわけですごくやる気が出なかった。
 
- <img src="/assets/tacokennisshi/10JUL2021/2019fatness.JPG" width="100" />
+ <a href="/assets/tacokennisshi/10JUL2021/2019fatness.JPG"><img src="/assets/tacokennisshi/10JUL2021/2019fatness.JPG" width="100" /> </a>
 
  腹回りが1メートル越えてました。
 
@@ -57,7 +57,7 @@ tags:
 
 百聞は一見にしかず。
 
-<img src="/assets/tacokennisshi/10JUL2021/2021JUL10.jpeg" width="100" />
+<a href="/assets/tacokennisshi/10JUL2021/2021JUL10.jpeg"><img src="/assets/tacokennisshi/10JUL2021/2021JUL10.jpeg" width="100" /> </a>
 
 まだまだだがまったりしてる割には中々の出来では無かろうか！自分で自分を激励しないと誰もしてくれないの巻。10月11日まで３ヶ月弱！ちまちま前進するのみ。この時点で-8kgくらい。ウェストはまだ93cm。人間ドックまでにメタボ基準の85cm以下を目指す！
 
