@@ -13,8 +13,8 @@ tags:
   - <a href="#3.1. Vertical Pull種目">3.1. Vertical Pull種目</a>
   - <a href="#3.2. Horizontal Pull種目">3.2. Horizontal Pull種目</a>
 - <a href="#4. アクセサリー考えるのが面倒！ってな君にBoring But Big">4. アクセサリー考えるのが面倒！ってな君にBoring But Big</a>
-  - <a href="#4.1. Boring But Big"></a>
-- <a href="#5. I'm not doing Jack Shit today"></a>
+  - <a href="#4.1. Boring But Big">4.1. Boring But Big</a>
+- <a href="#5. I'm not doing Jack Shit today">5. I'm not doing Jack Shit today</a>
 
 # <a name="1. アクセサリー Again">1. アクセサリー Again</a>
 
