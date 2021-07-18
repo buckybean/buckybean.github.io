@@ -7,17 +7,17 @@ categories:
 tags:
   - 筋トレ
 ---
-- [Beyond 531](#beyond-531)
-- [Double Traing Cycle](#double-traing-cycle)
-- [Joker Sets](#joker-sets)
-- [First Set Last](#first-set-last)
-- [5/3/1 ピラミッド](#531-ピラミッド)
-- [Deload Redux](#deload-redux)
-  - [Deload Variation](#deload-variation)
-  - [高強度デロード](#高強度デロード)
+- <a href="#Beyond 531">Beyond 531</a>
+- <a href="#Double Traing Cycle">Double Traing Cycle</a>
+- <a href="#Joker Sets">Joker Sets</a>
+- <a href="#First Set Last">First Set Last</a>
+- <a href="#5/3/1 ピラミッド">5/3/1 ピラミッド</a>
+- <a href="#Deload Redux">Deload Redux</a>
+  - <a href="#Deload Variation">Deload Variation</a>
+  - <a href="#高強度デロード">高強度デロード</a>
 
 
-# Beyond 531
+# <a name="Beyond 531">Beyond 531</a>
 2005年に登場して以来、色々な人に試してもらった531。Wendler氏は531を世に出した後も引き続きElite FTSの掲示板でリフターの色々な相談を受けていた。「パワーリフティング大会に出たいんだけどどう531に組み込めば良い？」「22歳でテストステロン余りまくっていてバニラ531（オリジナル版）がぬるいんだけど？」「今減量中で断続的断食をしているんけど、ジム時間が断食中にしか確保出来なくてメニューが辛い」などなど。
 
 Wendler氏は直接答えることもあればふと思い付いた様にブログに書き込む事もあった。これらの幾多の解決策やTipsだったりを「Beyond 531」と言う本として世に出した。例の如く、本は色々と素晴らしい情報が詰まっているが、本自体のプレゼンは糞で読みづらい。あちこちに散乱していた書き込みを取り敢えずまとめて本として出版した感じの内容になっている。掲示板やブログ等を探せばこれらの本の元は探せるだろう。（探せるはず...昔はあった）
@@ -26,7 +26,7 @@ Wendler氏は直接答えることもあればふと思い付いた様にブロ�
 
 このセクションではWendler氏の編纂書「Beyond 531」より幾つか教えたいものを抜粋する。
 
-# Double Traing Cycle
+# <a name="Double Traing Cycle">Double Traing Cycle</a>
 初期のWendler氏は1サイクル毎に必ずデロードを要求していた。Wendler氏はElite Powerlifterなので扱う強度が凡人のそれとは違い、恐らくサイクル毎にデロードは必要だったのだろう。
 
 しかしまだトレーニング歴が浅い人や若い人達にはサイクル毎にデロードは過剰だった。そこでDouble Training Cycleと言うのが出てきた。内容は読んで字の如くだが、
@@ -36,7 +36,7 @@ Wendler氏は直接答えることもあればふと思い付いた様にブロ�
 
 なお、一般的なトレーニーにそもそもデロードなぞ必要なのかと言う議論が時折勃発する。エリートアスリートでも無ければぶっちゃけ要らんやろと言うのが一般的な見解であるが、Wendler氏が言う様に我々は人生と言う長い大会に出場しているわけで、適宜デロードしてQoLの向上に勤めよう。またデロードが必要が無いくらいぬるいとお思いなら、後述のスパイスを投入しては如何だろうか。
 
-# Joker Sets
+# <a name="Joker Sets">Joker Sets</a>
 Training Maxを設定した事に毎度何かのPRを経験して楽しい日々であろうが、何か物足りない時がある。たまにはエネルギーが有り余っていてもうちょっと攻めたい！って時もあるはずだ。そんな時に行うのがJoker Sets。
 
 Joker Setsとはそのセッションのワーキングセットのトップセットの後に、トップセットの重量から+5%または+10%増量し、トップセットの最低レップをこなす。
@@ -47,7 +47,7 @@ Joker Setsとはそのセッションのワーキングセットのトップセ�
 
 > Wendler氏は真剣なリフターであれば全員Joker Setと後述のFirst Set Lastをやるべきであると言っている。
 
-# First Set Last
+# <a name="First Set Last">First Set Last</a>
 First Set LastはBig 4のボリューム不足を解消する為にある。
 - ## First Set Last (original)
 内容は読んで字の如く、トップセット終了後にワーキングセットの最初のセットをAMRAPこなす。
@@ -99,7 +99,7 @@ First Set LastはBig 4のボリューム不足を解消する為にある。
 </tbody>
 </table>
 
-- ## First Set Last, Multiple Sets
+- ## <a name="First Set Last, Multiple Sets">First Set Last, Multiple Sets</a>
 こちらも同様にボリューム不足を解消するのが狙いだが、AMRAPに慣れていない人にはダメージが大きいのでそれを回避する内容だ。
 
 表にするとこんな感じだ。セット数もレップ数も本人が決める。
@@ -148,7 +148,7 @@ First Set LastはBig 4のボリューム不足を解消する為にある。
 </tbody>
 </table>
 
-# 5/3/1 ピラミッド
+# <a name="5/3/1 ピラミッド">5/3/1 ピラミッド</a>
 
 こちらもFirst Set Lastの様にボリューム問題の解決となるバリエーションである。ボリュームに反応し易いリフト、主にベンチプレスやオーバーヘッドプレスでは何らかのボリューム増加のバリエーションを組み込みたいものである。
 
@@ -203,9 +203,9 @@ First Set LastはBig 4のボリューム不足を解消する為にある。
 </tbody>
 </table>
 
-# Deload Redux
+# <a name="Deload Redux">Deload Redux</a>
 
-## Deload Variation
+## <a name="Deload Variation">Deload Variation</a>
 
 531のIntroductionでDeloadについて説明した。実際にバニラ531のメニュー通りにデロードをするととてもモノ足りない感じがする。自分がデロード前のサイクルを怠けていたからかも知れないが、この物足りなさを実はWendler氏も認識していた。そこでサイクル毎の疲労具合、マクロサイクルにおけるトレーニーの位置などを考え、トレーニーが自分で査定して選定できるデロードのバリエーションを5つ用意してくれた。
 
@@ -265,7 +265,7 @@ First Set LastはBig 4のボリューム不足を解消する為にある。
 </tbody>
 </table>
 
-## 高強度デロード
+## <a name="高強度デロード">高強度デロード</a>
 
 ここではボリュームは下げつつも、強度は維持する形のデロードである。
 
