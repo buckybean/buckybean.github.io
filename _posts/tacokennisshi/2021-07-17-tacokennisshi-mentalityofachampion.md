@@ -45,3 +45,9 @@ tags:
 John Broz曰く「バーを触った日はそれだけでプラス。触らなかった日はマイナスだ。」目標があり、それをなし得たいのならコツコツ頑張るべしと言う事か。モチベーションが無い日もある日も地道にコツコツと。John Wendler氏はMotivationと言う言葉を嫌い、Task Force Bruiserの司令官であった退役軍人で元Navy SEALsのJocko Willink氏も同様の事を言っていたが、「出来たらやる」じゃなくて「やらないといけないからやる」と言う風に考えられる様になれば、目標が達成し易くなる人生の秘訣かも知れない。
 
 さて僕も頑張ろう。
+
+# それでも無理・・・
+
+↓でも見ましょう。
+
+<blockquote class="twitter-tweet" data-theme="dark"><p lang="ja" dir="ltr">元陸軍特殊部隊のJared Bullock。2013年アフガン、IEDにより負傷。30数回の手術を経て安定するも、片腕と片足を切断。その後は家族に見守られながらリハビリ。幾多の体を酷使する運動大会に出場し、2016年はフィジーク大会にも出場。皆さんは今日、トレーニングしましたか？ <a href="https://t.co/VeO2UhueBp">pic.twitter.com/VeO2UhueBp</a></p>&mdash; Buckybean (@TacoKenNisshi) <a href="https://twitter.com/TacoKenNisshi/status/804298415110688769?ref_src=twsrc%5Etfw">December 1, 2016</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
