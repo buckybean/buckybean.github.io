@@ -16,7 +16,9 @@ tags:
 
 <blockquote class="twitter-tweet" data-theme="dark"><p lang="ja" dir="ltr">筋トレ関係のハウツーって核心に迫るほど単純明快でシンプルな当たり前な話ばかりになるからビジネスとしてはどんどん使えないものになっていく。世に蔓延する目を引く極端な見出しは魅力的で関心を引くけど言ってしまえば核心からはどんどん遠ざかっている。でも素人さんはこういうの好きよね<a href="https://twitter.com/hashtag/%E7%AD%8B%E3%83%88%E3%83%AC?src=hash&amp;ref_src=twsrc%5Etfw">#筋トレ</a></p>&mdash; シンクさん　advanceとeliteのはざま (@SYNCDESIGNJP) <a href="https://twitter.com/SYNCDESIGNJP/status/1417313895035772931?ref_src=twsrc%5Etfw">July 20, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+
 <blockquote class="twitter-tweet"data-theme="dark"><p lang="ja" dir="ltr">何で今ってこんなに筋トレ初心者に分割法が流行ってるんだろう...<br>しかもほぼ例外なく分割が細かい。<br><br>成長のチャンスしかない初心者の時期にその組み方は本当に勿体ない。<br><br>BIG3を中心としたコンパウンド種目で全身鍛える日を週3回作った方が絶対早くデカくなるよ...</p>&mdash; カイ | GOAL-B (@Kai_MuscleBlog) <a href="https://twitter.com/Kai_MuscleBlog/status/1416269146329812992?ref_src=twsrc%5Etfw">July 17, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 
 カイ君のツィートの本質的な趣旨とは少し違うが、シンクさんが呟いた事がある種答えだと思っている。山澤さんのYoutube Shortsを見て笑ったんだけど、大会出場後に「どうすれば痩せれる」みたいなのを12秒くらいにまとめてましたが、**ネタバレ注意**　12秒を要約すると「CICOに留意し、筋トレをし、適宜有酸素をする」であった。(CICO=Calories In, Calories Out. 収支カロリーの事)Velocity Dietだろうがケトジェニックダイエットだろうが糞ジェニックダイエットだろうが成功の根底には「収支カロリーの管理と筋トレ」が普遍的真理としてあるのに、それを本にしても誰も飛び付かない。飛び付くのは分かっている人達で、「分かっていない人達」は安直な、ノーエビデンス又は曲解エビデンスで誇張されたメソッドだったりに飛び付く。「たった1日6分でシックスパック！」的な奴ね。
 
