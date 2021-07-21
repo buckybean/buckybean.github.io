@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Novelty Bias"
+title: "Novelty Bias - 新奇じゃなきゃ売れない"
 date: 2021-07-21
 categories:
   - タコライス研究日誌
