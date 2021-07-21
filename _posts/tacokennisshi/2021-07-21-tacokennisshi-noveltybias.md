@@ -26,7 +26,7 @@ tags:
 
 基本が売れない理由の一つに「新奇バイアス」があると思う。ここで言う新奇バイアスはシンプルであり、人は未知なものに未知であるだけで興味を持ってしまう、と言うバイアスだ。例は日常的にあるが、Antonio Krastevの話が面白いので紹介しよう。
 
-<a href="/assets/tacokennisshi/21JUL2021/Antonio_Krastev_1987.jpeg"><img src="/assets/tacokennisshi/21JUL2021/Antonio_Krastev_1987.jpeg" width="100" /> </a> 80年代のザ・ブルガリアン・ウェイトリフターって感じ。Krastev氏は交通事故で2020年に他界。
+<a href="/assets/tacokennisshi/21JUL2021/Antonio_Krastev_1987.jpeg"><img src="/assets/tacokennisshi/21JUL2021/Antonio_Krastev_1987.jpeg" width="100" /> </a> > 80年代のザ・ブルガリアン・ウェイトリフターって感じ。Krastev氏は交通事故で2020年に他界。
 
 Antonio Krastevはブルガリアのウェイトリフターで、1987年に挙げた216kgのスナッチの化け物記録は2017年まで破られなかった。このKrastevさんが若い時にNY州のクィーンズにあるLost Battalion Hall Weighlifting Gymでトレーニングをしていた頃の話。化け物記録を樹立していた事から周りのアメリカ人リフターにはかなり注目されていた。セット間休憩の時間、セット数、レップ数、扱う種目、テクニック等をみんなが観察していた。
 
