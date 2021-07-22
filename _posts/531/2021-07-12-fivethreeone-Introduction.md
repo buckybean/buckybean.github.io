@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "531 Introduction"
+title: "531 Introduction 入門編"
 date: 2021-07-12
 categories:
   - 五三一
