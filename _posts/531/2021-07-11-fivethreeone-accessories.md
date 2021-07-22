@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "531 Accessories"
+title: "531 Accessories 補助種目"
 date: 2021-07-11
 categories:
   - 五三一
