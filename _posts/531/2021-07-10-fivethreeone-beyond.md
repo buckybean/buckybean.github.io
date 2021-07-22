@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "531 Beyond"
+title: "531 Beyond 応用篇"
 date: 2021-07-10
 categories:
   - 五三一
