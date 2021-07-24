@@ -16,9 +16,11 @@ tags:
 初めから
 
 <a href="/assets/tacokennisshi/25JUL2021/IMG_3546.JPG"><img src="/assets/tacokennisshi/25JUL2021/IMG_3546.JPG" width="100" /> </a>
+
 前回報告から
 
 <a href="/assets/tacokennisshi/25JUL2021/IMG_3545.JPG"><img src="/assets/tacokennisshi/25JUL2021/IMG_3545.JPG" width="100" /> </a>
+
 うむ、前回から２週間経過しましたが写真を見ても余り分からないですね。
 
 ## 数値
@@ -26,7 +28,9 @@ tags:
 Trackingはスプシでやっていて、主なデータポイントは日々の体重と土曜日に一回だけ測る腹回りの値です。Rippedbody.jpでは胸だの脚だのも計測すべきとしていますが、難しいので諦めました。体重は週平均を見比べています。
 
 無理の無い減量としての目標は前週比で -0.5% 〜 -0.75%。それ以上減っちゃうと筋肉ロスがデカ過ぎるので抑えたい感じですね。WinstrolやClenbuterolを使っているのならもっとアグレッシブな減量が出来るみたいですね。
+
 <a href="/assets/tacokennisshi/25JUL2021/metracker25JUL2021.png"><img src="/assets/tacokennisshi/25JUL2021/metracker25JUL2021.png" width="100" /> </a>
+
 2週間で1.29kg減。こっから減りがしぶくなるかな？停滞しない様に無理せず10月11日の人間ドックまで除脂肪すっぞ！
 
 トレ面ではスクワットとデッドは扱える重量は鼠径ヘルニアの手術の弊害で相変わらず低めですが、満足の行く数値でした。ベンチは相変わらず野糞クォリティ。いや、俺ベンチ嫌いだから！別にベンチ強くなても良いから！死ねベンチ！今週はデロードでしたが台風とモデルナの2回目の接種の影響で色々出来なかった。
