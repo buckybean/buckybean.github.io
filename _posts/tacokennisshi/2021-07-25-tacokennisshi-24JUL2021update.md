@@ -14,8 +14,10 @@ tags:
 百聞は一見にしかず。
 
 初めから
+
 <a href="/assets/tacokennisshi/25JUL2021/IMG_3546.JPG"><img src="/assets/tacokennisshi/25JUL2021/IMG_3546.JPG" width="100" /> </a>
 前回報告から
+
 <a href="/assets/tacokennisshi/25JUL2021/IMG_3545.JPG"><img src="/assets/tacokennisshi/25JUL2021/IMG_3545.JPG" width="100" /> </a>
 うむ、前回から２週間経過しましたが写真を見ても余り分からないですね。
 
