@@ -13,6 +13,8 @@ tags:
 
 <a href="/assets/531/531spreadsheet.png"><img src="/assets/531/531spreadsheet.png" width="100" /> </a>
 
+使い方ですが基本的にレイアウトに従って黄色い部分の数値をいじって行くだけです。
+
 ## Google Accountを作ろう
-(Google Spreadsheetのリンク)[https://docs.google.com/spreadsheets/d/1I6cR2FZ5Mj6HP2oVwwk-SFrNyXrzOygNknMMJK75SeA/copy#gid=455480314]
+[Google Spreadsheetのリンク](https://docs.google.com/spreadsheets/d/1I6cR2FZ5Mj6HP2oVwwk-SFrNyXrzOygNknMMJK75SeA/copy#gid=455480314)
 こちらのリンク先でファイルを自分のGoogle Docsにコピーし、そこから編集する感じです。当然ですがGoogle Accountが無いと出来ないので使いたい場合はGoogle Accountを作成する必要があります。色々トラッキングされますが無料なのでおすすめです。
