@@ -25,7 +25,7 @@ tags:
 
 ## 数値
 
-<a href="/assets/tacokennisshi/01AUG2021/metracker01AUG2021.png"><img src="/assets/tacokennisshi/01AUG2021/IMG_4705.JPG" width="100" /> </a>
+<a href="/assets/tacokennisshi/01AUG2021/metracker01AUG2021.png"><img src="/assets/tacokennisshi/01AUG2021/metracker01AUG2021.png" width="100" /> </a>
 
 目星い変化は週の平均体重が先週から-0.74kg(-0.99%)で理想がwk/wkで-0.5%から-0.75%なので少し減り過ぎ。腹回りも-1cmで89.5cm。メタボ診断基準である85cmまであと4.5cm。10月11日まで余裕やな！
 
