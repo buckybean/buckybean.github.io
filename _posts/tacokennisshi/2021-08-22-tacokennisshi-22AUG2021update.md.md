@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "【脱デブ】R3年10月11日の人間ドックまで 8月22日の報告"
-date: 2021-08-15
+date: 2021-08-22
 categories:
   - タコライス研究日誌
 tags:
