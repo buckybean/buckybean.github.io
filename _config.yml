@@ -35,6 +35,8 @@ disqus.shortname: tacokennisshi
   
 google_analytics: G-KZEDDKRNB6
 
+google_ad_client: pub-1251728985090337
+
 plugins:
   - jekyll-feed
   - jekyll-gist
