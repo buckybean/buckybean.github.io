@@ -27,7 +27,7 @@
     {% endif %}
   </title>
 
-  {% include google-analytics.html %}
+ {% if site.google_ad_client %}{% include google_analytics.html %}{% endif %}  
 
   <!-- CSS -->
   <link rel="stylesheet" href="{{ "/assets/css/main.css" | relative_url }}" />
