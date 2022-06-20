@@ -135,7 +135,7 @@ body {
   Tablet / Desktop view
 ----------------------------------------------------------- */
 
-@media (min-width: $large-breakpoint) {
+@media (min-width: 20rem) and (max-width:$large-breakpoint){
   body {
     flex-direction: row;
     min-height: 100vh;
