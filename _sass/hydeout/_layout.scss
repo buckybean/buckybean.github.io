@@ -30,7 +30,7 @@ body {
   display: flex;
   flex-direction: column;
   min-height: 100vh;
-  min-width: 100vw;
+
 }
 
 #sidebar {
@@ -57,7 +57,7 @@ body {
 // Container is flexbox as well -- we want content div to stretch and fill
 .container {
   display: flex;
-  flex: 1 0 auto;
+  flex: 1 1 auto;
   flex-direction: column;
 
   > .content {
