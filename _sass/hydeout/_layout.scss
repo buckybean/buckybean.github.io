@@ -57,7 +57,7 @@ body {
 .container {
   display: flex;
   flex: 1 1 auto;
-  flex-direction: row;
+  flex-direction: column;
 
   > .content {
     flex-shrink: 1;
