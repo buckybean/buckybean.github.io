@@ -60,7 +60,7 @@ body {
   flex-direction: column;
 
   > .content {
-    flex-grow: 1;
+    flex-shrink: 1;
     padding-bottom: $section-spacing * 2;
   }
 }
