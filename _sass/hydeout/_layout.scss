@@ -37,8 +37,8 @@ body {
   padding: $section-spacing;
 
   .site-title {
-    font-family: 'Potta One','Abril Fatface', serif;
-    font-size: medium;
+    font-family: 'Abril Fatface', serif;
+    font-size: $large-font-size;
     font-weight: normal;
     margin-bottom: $heading-spacing;
     margin-top: 0;
@@ -181,7 +181,7 @@ body {
     }
 
     .site-title {
-      font-size: 3rem;
+      font-size: 3.25rem;
       .back-arrow { display: none; }
     }
 
@@ -230,7 +230,7 @@ body {
     }
 
     > * {
-      max-width: 50rem;
+      max-width: 38rem;
       padding: 0;
     }
   }
